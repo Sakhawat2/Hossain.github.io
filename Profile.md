@@ -136,6 +136,25 @@
 
 ## PROJECTS
 
+### Payroll Management system
+🔗 https://github.com/Sakhawat2/employee-payroll-system
+
+
+Create a modular and scalable backend system related to employees and payroll. The implementation of a secure and friendly frontend interface dashboard for both employees and administrators. Serve as a basis for automating payroll computations based on submitted work records. Enabling administrative functions like approval processes, editing records, and export of invoice statements. For maintaining data integrity, security, and usability within the system
+
+-----
+### -	Smart Parking Management System
+🔗 https://github.com/Sakhawat2/Smart-Parking-Management-system
+
+
+The Smart Parking System project aims to solve urban parking challenges by enabling real-time monitoring, occupancy tracking, and automated gate control. The system integrates IoT hardware, a cloud database, a backend server, and a web dashboard.
+The solution uses an Arduino Uno WiFi Rev2, a Grove Ultrasonic Ranger, and Firebase Realtime Database to detect vehicle presence and update the cloud instantly. A web dashboard visualizes this data and allows cloud-to-Arduino commands such as “Gate Open” and “Gate Close.” Urban areas face congestion due to inefficient parking management, leading to wasted time, fuel consumption, and driver frustration. Unlike traditional parking systems, this project integrates real-time sensing with cloud-based analytics and a user-facing dashboard.
+Software
+ Node.js Express backend,  Firebase Realtime Database, JavaScript Web Dashboard,  Chart.js Visualization Library,  Arduino Firmware (C/C++)
+
+---
+
+
 ### Teleoperation of Autonomous Cars  
 **International Software Project (HDA & Centria, Kokkola)**  
 
