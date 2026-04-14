@@ -30,17 +30,6 @@
 
 ---
 
-### Chef  
-**Chef Spartao Oy, Sushibar Pietarsaari (Prisma Pietarsaari)**  
-📍 Pietarsaari, Finland  
-🗓️ 01/05/2017 – 25/12/2023  
-
-- Sushi preparation and customer service  
-- Fish cutting and kitchen preparation  
-- Inventory estimation and planning  
-- Maintain hygienic working environment  
-
----
 
 ### Service Manager  
 **Murata Machinery Bangladesh Ltd.**  
