@@ -4,7 +4,7 @@
 📞 +358 41 729 5788  
 📧 Sakatex83@gmail.com  
 💬 WhatsApp: +358 41 729 5788  
-🔗 GitHub: https://github.com/Sakhawat2  
+🔗 GitHub: [https://github.com/Sakhawat2](https://github.com/Sakhawat2/Hossain.github.io/edit/main/Profile.md)  
 🔗 LinkedIn: https://www.linkedin.com/in/md-sakhawat-hossain-375192160  
 
 **Gender:** Male  
@@ -12,6 +12,16 @@
 **Nationality:** Bangladeshi  
 
 ---
+## Profile
+Highly skilled Electrical and Electronics Engineer with extensive international experience in industrial machinery maintenance, installation, and troubleshooting. A flexible and adaptable professional with a proven track record of solving complex mechanical and electrical issues under pressure. Committed to maintaining high safety standards and operational efficiency. Ready for shift work and eager to apply technical expertise within the Finnish industrial sector.
+### CORE COMPETENCIES
+-	Maintenance: Preventive & corrective maintenance, industrial machinery troubleshooting.
+-	Electrical: Circuit diagnostics, electrical installations, and quality control.
+-	Adaptability: Proven ability to transition between technical engineering and fast-paced service environments.
+-	Leadership: Experience supervising teams and training junior engineers.
+
+---
+
 
 ## WORK EXPERIENCE
 
@@ -60,8 +70,8 @@
 🌐 https://net.centria.fi  
 
 - EQF Level 6  
-- 168 ECTS completed  
-- Average Grade: 4.07  
+- 217 ECTS completed  
+- Average Grade: 4.15  
 
 **Key Subjects & Projects:**  
 - Python fundamentals, C#, web and cloud development  
