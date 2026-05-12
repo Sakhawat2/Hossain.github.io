@@ -1,8 +1,8 @@
 # MD SAKHAWAT HOSSAIN
 
-📍 Oikotie 1 D21, 68600 Pietarsaari, Finland  
+📍 Oikotie 1 D21, 68620 Pietarsaari, Finland  
 📞 +358 41 729 5788  
-📧 Sakatex83@gmail.com  
+📧 sakatex83@gmail.com  
 💬 WhatsApp: +358 41 729 5788  
 🔗 GitHub: [https://github.com/Sakhawat2/Hossain.github.io/blob/main/Profile.md](https://github.com/Sakhawat2/Hossain.github.io/edit/main/Profile.md)  
 🔗 LinkedIn: https://www.linkedin.com/in/md-sakhawat-hossain-375192160  
@@ -13,12 +13,15 @@
 
 ---
 ## Profile
-Highly skilled Electrical and Electronics Engineer with extensive international experience in industrial machinery maintenance, installation, and troubleshooting. A flexible and adaptable professional with a proven track record of solving complex mechanical and electrical issues under pressure. Committed to maintaining high safety standards and operational efficiency. Ready for shift work and eager to apply technical expertise within the Finnish industrial sector.
+Dual-qualified Engineer in IT and Electrical/Electronics with extensive experience in industrial automation and machinery. Recognized as 'Best Employee 2024' in Finland, I combine hardware troubleshooting expertise with software programming skills to manage complex AGV systems and automated workflows. I am a highly reliable, three-shift ready professional committed to operational efficiency and safety.
 ### CORE COMPETENCIES
--	Maintenance: Preventive & corrective maintenance, industrial machinery troubleshooting.
--	Electrical: Circuit diagnostics, electrical installations, and quality control.
--	Adaptability: Proven ability to transition between technical engineering and fast-paced service environments.
--	Leadership: Experience supervising teams and training junior engineers.
+
+-	Automation & Control Systems: Expert in integrating electrical hardware with IT software, specifically for AGV systems, automated warehousing, and digital material flows.
+-	Industrial Maintenance: Comprehensive skills in preventive and corrective maintenance, troubleshooting complex electrical and mechanical issues under pressure.
+-	System Installation & Commissioning: Proven ability to manage full-scale machine installations, supervising technical teams, and ensuring quality control across international borders.
+-	Software & Programming: Proficient in industrial software applications and general programming, developed through a Bachelor of Engineering in IT.
+-	Adaptability & Reliability: Demonstrated high performance in diverse fields, recognized as "Best Employee 2024" for punctuality and work ethic in Finland.
+-	Leadership & Training: Experienced in supervising staff (up to 11 people) and training junior engineers/customers on system optimization.
 
 ---
 
@@ -57,7 +60,8 @@ Highly skilled Electrical and Electronics Engineer with extensive international 
 
 **Achievements:**  
 - Best Employee (2017–2023)  
-- Best Feedback Award 2022  
+- Best Feedback Award 2022
+* Certificate
 
 ---
 
@@ -70,8 +74,8 @@ Highly skilled Electrical and Electronics Engineer with extensive international 
 🌐 https://net.centria.fi  
 
 - EQF Level 6  
-- 217 ECTS completed  
-- Average Grade: 4.15  
+- Completed  
+- Average Grade: 4.21
 
 **Key Subjects & Projects:**  
 - Python fundamentals, C#, web and cloud development  
