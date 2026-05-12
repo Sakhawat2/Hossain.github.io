@@ -142,8 +142,16 @@ Dual-qualified Engineer in IT and Electrical/Electronics with extensive experien
 ### Payroll Management system
 🔗 https://github.com/Sakhawat2/employee-payroll-system
 
+🎞️ Video [link](https://www.youtube.com/watch?v=sM9fiJPkm88&t=9s)
+
 
 Create a modular and scalable backend system related to employees and payroll. The implementation of a secure and friendly frontend interface dashboard for both employees and administrators. Serve as a basis for automating payroll computations based on submitted work records. Enabling administrative functions like approval processes, editing records, and export of invoice statements. For maintaining data integrity, security, and usability within the system
+* Dashboard
+![Dashboard](https://github.com/Sakhawat2/Hossain.github.io/blob/main/assets/Picture1.png)
+
+
+
+
 
 -----
 ### -	Smart Parking Management System
@@ -170,6 +178,7 @@ Software
 
 ### Data Warehouse Project  
 🔗 https://github.com/Sakhawat2/Datawarehouse  
+🎞️ Video [link](https://www.youtube.com/watch?v=k_aMoyq5ajs&t=40s)
 
 - Centralized data hub for sensor, video, and file storage  
 - Structured datasets for analytics and model training  
