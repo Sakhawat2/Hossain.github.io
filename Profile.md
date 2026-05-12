@@ -4,7 +4,7 @@
 📞 +358 41 729 5788  
 📧 Sakatex83@gmail.com  
 💬 WhatsApp: +358 41 729 5788  
-🔗 GitHub: [https://github.com/Sakhawat2](https://github.com/Sakhawat2/Hossain.github.io/edit/main/Profile.md)  
+🔗 GitHub: [https://github.com/Sakhawat2/Hossain.github.io/blob/main/Profile.md](https://github.com/Sakhawat2/Hossain.github.io/edit/main/Profile.md)  
 🔗 LinkedIn: https://www.linkedin.com/in/md-sakhawat-hossain-375192160  
 
 **Gender:** Male  
